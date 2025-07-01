@@ -1,1 +1,2 @@
 git_src -b debian/1.9.16p2-3 https://salsa.debian.org/sudo-team/sudo.git
+version_suffix=gl0
