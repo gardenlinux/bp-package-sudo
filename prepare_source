@@ -1,6 +1,6 @@
 pkg=sudo
-version_orig=1.9.16p2-3
+version_orig=1.9.17p2-7
 version="$version_orig"
 git_src -b "debian/$version_orig" https://salsa.debian.org/sudo-team/sudo.git
 
-version_suffix=gl0+bp1877
+version_suffix=gl0+bp2150
